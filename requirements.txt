@@ -13,3 +13,5 @@ scikit-image # skimage
 scipy
 onnxruntime
 gradio
+
+anyio==4.14.2
